@@ -1,0 +1,7 @@
+C:\Temp\AzDemo\MyApp\published\MyApp.exe
+C:\Temp\AzDemo\MyApp\published\appsettings.Development.json
+C:\Temp\AzDemo\MyApp\published\appsettings.json
+C:\Temp\AzDemo\MyApp\published\MyApp.dll
+C:\Temp\AzDemo\MyApp\published\MyApp.deps.json
+C:\Temp\AzDemo\MyApp\published\MyApp.runtimeconfig.json
+C:\Temp\AzDemo\MyApp\published\MyApp.pdb
