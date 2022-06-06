@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9/wvSUWsF4aOpQ9Q8gMKg1QWfmUVf0eF5TgIz+Y+t/c1Um8BmCIpXdBkZvJxSahFWLXYH5jxTkzgspY3F9VS/g==",
+  "dgSpecHash": "AbvUXo/9e1fPjP1ZtKIlRFInJNpcr8XMGmkIvire7wBGNhN5Q/13A1tnQJD5bwEM10I8lKTM7GRab2ZOVu4F+A==",
   "success": true,
-  "projectFilePath": "C:\\Temp\\AzDemo\\MyApp\\MyApp\\MyApp.csproj",
+  "projectFilePath": "C:\\Temp\\AzDemo\\AzureWebAppBicep\\MyApp\\MyApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
